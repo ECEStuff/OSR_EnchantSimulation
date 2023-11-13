@@ -11,6 +11,7 @@ How to use:
 - Choose your strategy. There are several preset ones that can't be edited and a custom one that can be edited to your preferences.
 - Fill in the necessary costs of each crafting ingredient (enchant card, special enchant card, booster card, etc.). Units must be consistent.
 - Each level represents the enchant level. For Legend items, level 1 refers to the 1st version (S-I for Legend Armor, "Dark" for Legend Weapons).
+  - Target level is the level that you want the item to be at. This is at most level 7 for Legend Armor, level 15 for Legend Weapon, and level 12 (for simulation only) for enchanting weapons/armor.
   - Click a box in each column (only one type of protection card and/or one type of booster card may be used) to use that item in the corresponding enchant.
   - For enchanting only: if the special enchant card option is ticked, then a special enchant card will be used instead of a normal enchant card.
 - If the crafting is for a Legend Armor or a Legend Weapon (this would be done in the factory instead of in the laboratory in the real game), click one of those options instead. Enchanting is the default equipment type option.
