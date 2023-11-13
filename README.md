@@ -3,7 +3,7 @@ This is a crafting simulator for the OldSchoolRivals Ace Online server. The orig
 
 This simulator includes the following not in the original simulator:
 - Base item cost (the cost of the item being modified).
-- Crafting simulation of the factory found in the game. Original simulator simulated only crafting in the laboratory, another crafting area in the game.
+- Crafting simulation of the factory found in the game. Original simulator simulated crafting only in the laboratory, another crafting area in the game.
 
 How to use:
 - Load the simulator. The simulator (EnchantSimulation.exe) can be found in OSR_EnchantSimulation/EnchantSimulation/bin/Release
