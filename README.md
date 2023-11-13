@@ -17,7 +17,7 @@ How to use:
 - If the crafting is for a Legend Armor or a Legend Weapon (this would be done in the factory instead of in the laboratory in the real game), click one of those options instead. Enchanting is the default equipment type option.
   - Legend probability ranges from 0 to 1. For example, for a 90% success rate, enter 0.9.
   - Booster cards and protection cards are not usable for Legend crafting.
-- Click "Simulate!" when you are ready to view results. Note: high level enchants (level 12+) take a long time of approximately 1 minute or so.
+- Click "Simulate!" when you are ready to view results. Note: high target levels (level 7 for Legend Armor or level 12+ for enchanting and Legend Weapons) take a long time of approximately 1 minute or more.
 
 Crafting items:
 - Booster cards multiplicatively increase the success rate by a certain percentage.
