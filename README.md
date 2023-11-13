@@ -27,6 +27,7 @@ Crafting items:
 
 TODO:
 - Add multithreading in the simulation section of the code.
+- Add unit conversion and specified units to each cost. Final cost would be in the the user's chosen units, and all item costs will be converted to the same unit if the costs are in different units.
 - Test for robustness.
 - Rename "Bible/Scripture cost" to "Book Cost."
 - Add new equipment type "Special Weapons" for OldSchoolRivals special weapons.
