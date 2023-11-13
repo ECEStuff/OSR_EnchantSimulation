@@ -16,7 +16,7 @@ How to use:
   - For enchanting only: if the special enchant card option is ticked, then a special enchant card will be used instead of a normal enchant card.
 - If the crafting is for a Legend Armor or a Legend Weapon (this would be done in the factory instead of in the laboratory in the real game), click one of those options instead. Enchanting is the default equipment type option.
   - Legend probability ranges from 0 to 1. For example, for a 90% success rate, enter 0.9.
-  - Booster cards and protection cards are not usable for Legend crafting.
+  - Booster cards, special cards, and protection cards are not usable for Legend crafting. Only books and normal cards (these have special upgrade items in the real game) are used.
 - Click "Simulate!" when you are ready to view results. Note: high target levels (level 7 for Legend Armor or level 12+ for enchanting and Legend Weapons) take a long time of approximately 1 minute or more.
 
 Crafting items:
