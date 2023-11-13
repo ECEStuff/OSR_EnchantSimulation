@@ -3,6 +3,7 @@ This is a crafting simulator for the OldSchoolRivals Ace Online server. The orig
 
 This simulator includes the following not in the original simulator:
 - Base item cost (the cost of the item being modified).
+- Support for 2 different types of enchant cards in enchanting.
 - Crafting simulation of the factory found in the game. Original simulator simulated crafting only in the laboratory, another crafting area in the game.
 
 How to use:
