@@ -1,5 +1,5 @@
 # OSR_EnchantSimulation
-This is a crafting simulator for the OldSchoolRivals Ace Online server. The original crafting simulator was created by Discord user **thepolkameister** (Discord ID: 299393499927674880).
+This is a crafting simulator for the OldSchoolRivals Ace Online server. The original crafting simulator was created by Discord user **thepolkameister** (Discord ID: 299393499927674880). The original creator had the project under the WTFPL license.
 
 This simulator includes the following not in the original simulator:
 - Base item cost (the cost of the item being modified).
