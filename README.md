@@ -7,7 +7,7 @@ This simulator includes the following not in the original simulator:
 
 How to use:
 - Load the simulator. The simulator (EnchantSimulation.exe) can be found in OSR_EnchantSimulation/EnchantSimulation/bin/Release
-  - The project can be loaded in Visual Studio as a Windows Forms Application. Load the .sln file.
+  - The project can alternatively be loaded in Visual Studio as a Windows Forms Application. Load the .sln file.
 - Choose your strategy. There are several preset ones that can't be edited and a custom one that can be edited to your preferences.
 - Fill in the necessary costs of each crafting ingredient (enchant card, special enchant card, booster card, etc.). Units must be consistent.
 - Each level represents the enchant level. For Legend items, level 1 refers to the 1st version (S-I for Legend Armor, "Dark" for Legend Weapons).
