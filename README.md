@@ -4,11 +4,11 @@ This is a crafting simulator for the OldSchoolRivals Ace Online server. The orig
 This simulator includes the following not in the original simulator:
 - Base item cost (the cost of the item being modified).
 - Support for 2 different types of enchant cards in enchanting.
-- Legend Crafting simulation, which would be done in the factory in the real game. Original simulator simulated crafting only in the laboratory, another crafting area in the game.
+- Legend crafting simulation, which would be done in the factory in the real game. Original simulator simulated crafting only in the laboratory, another crafting area in the game.
 
 # How to use
 - Load the simulator. The simulator (EnchantSimulation.exe) can be found in OSR_EnchantSimulation/EnchantSimulation/bin/Release
-  - The project can alternatively be loaded in Visual Studio as a Windows Forms Application. Load the .sln file.
+  - (For those who would like to modify the code) Alternatively, the project can be loaded in Visual Studio as a Windows Forms Application. Load the .sln file.
 - Choose your strategy. There are several preset ones that can't be edited and a custom one that can be edited to your preferences.
 - Fill in the necessary costs of each crafting ingredient (enchant card, special enchant card, booster card, etc.). Units must be consistent.
 - Each level represents the enchant level. For Legend items, level 1 refers to the 1st version (S-I for Legend Armor, "Dark" for Legend Weapons).
