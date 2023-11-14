@@ -12,7 +12,7 @@ This simulator includes the following not in the original simulator:
 - Choose your strategy. There are several preset ones that can't be edited and a custom one that can be edited to your preferences.
 - Fill in the necessary costs of each crafting ingredient (enchant card, special enchant card, booster card, etc.). Units must be consistent.
 - Each row is numbered, and that number represents the upgrade level. For Legend items, level 1 refers to the 1st version (S-I for Legend Armor, "Dark" for Legend Weapons).
-  - Each row shows what item will be used when attempting to successfully upgrade to that row's level. For example, a row whose level is "7" and has a "5% booster card" ticked means a 5% card will be used when attempting to upgrade to level 7. Note that upgrading to the desired level requires obtaining the level(s) before the desired level.
+  - Each row shows what item will be used when attempting to successfully upgrade to that row's level. For example, a row whose level is "7" and has a "5% booster card" ticked means a 5% booster card will be used when attempting to upgrade to level 7. Note that upgrading to the desired level requires obtaining the level(s) before the desired level.
   - Target level is the upgrade level that you want the item to be at. This is at most level 7 for Legend Armor, level 15 for Legend Weapon, and level 12 (for simulation only) for enchanting weapons/armor.
   - Click a box in each column (only one type of protection card and/or one type of booster card may be used) to use that item in the corresponding enchant.
   - For enchanting only: if the special enchant card option is ticked, then a special enchant card will be used instead of a normal enchant card.
