@@ -1,12 +1,12 @@
-# OSR_EnchantSimulation
-This is a crafting simulator for the OldSchoolRivals Ace Online server. The original crafting simulator was created by Discord user **thepolkameister** (Discord ID: 299393499927674880). The original creator had the project under the WTFPL license.
+# About the OSR Enchant Simulator
+This is a crafting simulator for the OldSchoolRivals Ace Online server. The original crafting simulator for the official Ace Online server was created by Discord user **thepolkameister** (Discord ID: 299393499927674880). The original creator had the project under the WTFPL license.
 
 This simulator includes the following not in the original simulator:
 - Base item cost (the cost of the item being modified).
 - Support for 2 different types of enchant cards in enchanting.
-- Crafting simulation of the factory found in the game. Original simulator simulated crafting only in the laboratory, another crafting area in the game.
+- Legend Crafting simulation, which would be done in the factory in the real game. Original simulator simulated crafting only in the laboratory, another crafting area in the game.
 
-# How to use:
+# How to use
 - Load the simulator. The simulator (EnchantSimulation.exe) can be found in OSR_EnchantSimulation/EnchantSimulation/bin/Release
   - The project can alternatively be loaded in Visual Studio as a Windows Forms Application. Load the .sln file.
 - Choose your strategy. There are several preset ones that can't be edited and a custom one that can be edited to your preferences.
@@ -20,14 +20,14 @@ This simulator includes the following not in the original simulator:
   - Booster cards, special cards, and protection cards are not usable for Legend crafting. Only books and normal cards (these have special upgrade items in the real game) are used.
 - Click "Simulate!" when you are ready to view results. Note: high target levels (level 7 for Legend Armor or level 12+ for enchanting and Legend Weapons) take a long time of approximately 1 minute or more.
 
-# Crafting items:
+# Crafting items
 - Booster cards multiplicatively increase the success rate by a certain percentage.
 - If attempting to gain an enchant level would fail, a protection card will reset the item to a certain level. Basic resets to level 1; normal resets to level 5; hyper resets to level 10 (only if the attempted level was 11 or higher).
 - Bible/scripture cost refers to the cost of converting an armor or weapon to a Level 1 Legend Item. Converting items to Legend quality requires a bible (for armor) and a scripture (for weapons). We'll refer to these upgrade items as books.
 - The simulator keeps track of how many crafting ingredients and base items were used. If no protection cards are used, then the simulator increments the number of base items used by 1. Otherwise, each attempted enchant level will use up 1 of each of the designated items in addition to 1 normal enchant card (or special card if selected).
 - The OldSchoolRivals has another crafting system for a special set of weapons. To simulate upgrading these weapons, select the "Legend Weapon" equipment type. Then, set the "Lv1 Legend Probability" to 1 (since their lowest version is level 1 by default) and set the "Bible/Scripture Cost" to 0.
 
-# Upcoming tasks:
+# Upcoming tasks
 - Add multithreading in the simulation section of the code.
 - Add unit conversion and specified units to each cost. Final cost would be in the the user's chosen units, and all item costs will be converted to the same unit if the costs are in different units.
 - Test for robustness.
