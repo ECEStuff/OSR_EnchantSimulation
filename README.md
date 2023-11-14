@@ -23,7 +23,8 @@ This simulator includes the following not in the original simulator:
 
 # Crafting items
 - Booster cards multiplicatively increase the success rate by a certain percentage.
-- If attempting to gain an enchant level would fail, a protection card will reset the item to a certain level. Basic resets to level 1; normal resets to level 5; hyper resets to level 10 (only if the attempted level was 11 or higher).
+- Levels 1-5 for enchanting are guaranteed; in all other cases, there is an increasing chance of failure. For Legend crafting, levels 2+ have an increasing chance of failure.
+- If attempting to gain an upgrade level results in a failure, a protection card will reset the item to a certain level. Basic resets to level 1; normal resets to level 5; hyper resets to level 10 (only if the attempted level was 11 or higher).
 - Bible/scripture cost refers to the cost of converting an armor or weapon to a Level 1 Legend Item. Converting items to Legend quality requires a bible (for armor) and a scripture (for weapons). We'll refer to these upgrade items as books.
 - The simulator keeps track of how many crafting ingredients and base items were used. If no protection cards are used, then the simulator increments the number of base items used by 1. Otherwise, each attempted enchant level will use up 1 of each of the designated items in addition to 1 normal enchant card (or special card if selected).
 - The OldSchoolRivals has another crafting system for a special set of weapons. To simulate upgrading these weapons, select the "Legend Weapon" equipment type. Then, set the "Lv1 Legend Probability" to 1 (since their lowest version is level 1 by default) and set the "Bible/Scripture Cost" to 0.
